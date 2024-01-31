@@ -19,6 +19,8 @@ Libraries: pandas, scikit-learn, imbalanced-learn, sqlalchemy, matplotlib, seabo
 Install the required libraries using:
 pip install pandas scikit-learn imbalanced-learn sqlalchemy matplotlib seaborn
 
+Usage Clone the repository: git clone https://github.com/Etupino/Save_The_Bees_Project.git 
+
 Run the Jupyter Notebook:
 jupyter Save_The_Bees Model.ipynb
 Follow the notebook to execute code cells and explore the analysis.
